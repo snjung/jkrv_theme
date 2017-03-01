@@ -1,2 +1,4 @@
 # Es werden alle Typoscript-Dateien mit Dateiendung *.txt im Unterordner Library eingebunden
 <INCLUDE_TYPOSCRIPT: source="DIR: ./Library" extensions="txt">
+
+resDir = EXT:jkrv_theme/Resources
