@@ -1,0 +1,39 @@
+{
+    "modules": [],
+    "properties": {
+        "backendModules": [],
+        "description": "",
+        "emConf": {
+            "category": "distribution",
+            "custom_category": "",
+            "dependsOn": "typo3 => 7.6.0-8.9.99\n",
+            "disableLocalization": false,
+            "disableVersioning": false,
+            "skipGenerateDocumentationTemplate": false,
+            "sourceLanguage": "de",
+            "state": "alpha",
+            "targetVersion": "7.6.0-7.6.99",
+            "version": "0.1"
+        },
+        "extensionKey": "jkrv_theme",
+        "name": "JKRV Website-Template",
+        "originalExtensionKey": "",
+        "originalVendorName": "",
+        "persons": [
+            {
+                "company": "",
+                "email": "jung.jena@gmx.de",
+                "name": "Sebastian Jung",
+                "role": "Developer"
+            }
+        ],
+        "plugins": [],
+        "vendorName": "Jung"
+    },
+    "wires": [],
+    "log": {
+        "last_modified": "2017-02-24 01:19",
+        "extension_builder_version": "7.6.0",
+        "be_user": " (1)"
+    }
+}

@@ -1,0 +1,2 @@
+# Es werden alle Typoscript-Dateien im Unterordner Library eingebunden
+<INCLUDE_TYPOSCRIPT: source="DIR: ./Library" extensions="ts">
